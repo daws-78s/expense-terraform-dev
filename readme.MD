@@ -1,3 +1,3 @@
 # Expense Architecture
 
-![alt text](images/expense-dev.jpg)
+![alt text](images/expenses-dev-terraform.jpg)
